@@ -1,0 +1,6 @@
+{
+  "name": "ZimPrimary Learn",
+  "description": "Zimbabwe Primary School Learning App (ECD A to Grade 7) embedding MoPSE Heritage-Based Curriculum (HBC 2024-2030) syllabuses, required teaching resources, textbook reader chapters, CALA projects, ZIMSEC mock tests, and Teacher Chipo AI tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
